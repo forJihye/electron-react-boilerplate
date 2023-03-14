@@ -1,0 +1,8 @@
+node_modules
+
+build
+dist
+
+.env
+/src/config.ts
+/src/config.js
